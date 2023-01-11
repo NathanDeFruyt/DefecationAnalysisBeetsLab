@@ -1,4 +1,4 @@
-# DefecationAnalysisBeetsLab
+# Defecation Analysis Beets Lab
 
 This script analyses defecation data. This script was written
 in R version 4.0.4 "Lost Library Book" with warmth and love for the dearest 
