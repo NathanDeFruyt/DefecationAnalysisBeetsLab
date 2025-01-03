@@ -43,5 +43,5 @@ in R is relatively simple:
    download packages. Agree with this. Otherwise, install packages in the first section 
    of the script.
 5. for some as of yet unidentified reason, it's important to run this line by line:
-   put your cursor on the line you want to run and press <ctrl> + <enter>
+   put your cursor on the line you want to run and press ctrl + enter
    the cursor will automatically shift to the next portion.
